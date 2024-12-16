@@ -1,0 +1,1 @@
+This project outlines the development of a travel website focused on promoting tourism in Bangladesh. The platform provides comprehensive information about the country’s cultural heritage, natural wonders, and travel resources. The goal is to create a user-friendly website to boost tourism, connect travelers with local businesses, and showcase Bangladesh's unique attractions.
